@@ -1,9 +1,6 @@
 qwerasdf
 zxcv
-<<<<<<< HEAD
 
 
 1234
-=======
 zxcvpokm
->>>>>>> origin
